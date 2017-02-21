@@ -4,13 +4,13 @@ Gra w stylu arcade dostępna w przeglądarce (obsługiwana tylko przez przegląd
 
 
 Pierwsza łatka do Space Shootera
--poprawione zostały miejsca spawnu, dzięki czemu "Mothership" tworzące malutkie drony nie będzie się już pojawiać wprost przed graczem
--usunięto bug wyświetlający dodatkowy pasek zdrowia bossa
--usprawniony został system dystrybucji przeciwników na falę, silniejsze jednostki pojawiają się później, gra jest mniej chaotyczna, a gracz ma czas aby się dostosować
--boss pojawia się na dziesiątej fali, a nie jak do tej pory na piętnastej
+* poprawione zostały miejsca spawnu, dzięki czemu "Mothership" tworzące malutkie drony nie będzie się już pojawiać wprost przed graczem
+* usunięto bug wyświetlający dodatkowy pasek zdrowia bossa
+* usprawniony został system dystrybucji przeciwników na falę, silniejsze jednostki pojawiają się później, gra jest mniej chaotyczna, a gracz ma czas aby się dostosować
+* boss pojawia się na dziesiątej fali, a nie jak do tej pory na piętnastej
 
 Pierwsza łatka na system Android
--naprawa błędu, nasz statek kosmiczny już nie staje się niewidzialny
--statek teraz przemieszczamy naciskając na niego i przeciągając palcem
--naprawiony błąd: statek nie może opuścić granic ekranu
--statek będzie wyskakiwał spod palca co ułatwi widoczność
+* naprawa błędu, nasz statek kosmiczny już nie staje się niewidzialny
+* statek teraz przemieszczamy naciskając na niego i przeciągając palcem
+* naprawiony błąd: statek nie może opuścić granic ekranu
+* statek będzie wyskakiwał spod palca co ułatwi widoczność
