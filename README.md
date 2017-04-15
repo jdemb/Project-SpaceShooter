@@ -1,6 +1,6 @@
 # SpaceShooter
 
-Gra w stylu arcade dostępna w przeglądarce (obsługiwana tylko przez przeglądarki wspierające WebGL jak np. Mozilla Firefox) [tutaj](http://noform.pl/jentszej/build/spaceshooter.html) lub można również pograć plik apk, który zainstaluje grę na androidzie [tutaj](http://www50.zippyshare.com/v/1SWHr8R5/file.html)
+Gra w stylu arcade dostępna w przeglądarce (obsługiwana tylko przez przeglądarki wspierające WebGL jak np. Mozilla Firefox) [tutaj](http://noform.pl/jentszej/build/spaceshooter.html) lub można również pobrać plik apk, który zainstaluje grę na androidzie [tutaj](http://www50.zippyshare.com/v/1SWHr8R5/file.html)
 
 
 Pierwsza łatka do Space Shootera
