@@ -1,16 +1,18 @@
 # SpaceShooter
 
-Gra w stylu arcade dostępna w przeglądarce (obsługiwana tylko przez przeglądarki wspierające WebGL jak np. Mozilla Firefox) [tutaj](http://noform.pl/jentszej/build/spaceshooter.html) lub można również pobrać plik apk, który zainstaluje grę na androidzie [tutaj](http://www50.zippyshare.com/v/1SWHr8R5/file.html)
+Arcade style game available in browser (only by browsers supporting WebGL)
+[click](http://noform.pl/jentszej/build/spaceshooter.html)
+also available for Android systems (apk file here [click](http://www65.zippyshare.com/v/5GhNMXep/file.html))
 
+First Space Shooter update
+*fixed spawn places, "Mothership" creating little drones no longer appears right in front of the player
+*deleted bug which was displaying another boss healthbar
+*better "enemy per wave" system distribution, stronger units will appear later, game is less chaotic, player has more time to adapt
+*boss appears on tenth wave instead of fifteenth
 
-Pierwsza łatka do Space Shootera
-* poprawione zostały miejsca spawnu, dzięki czemu "Mothership" tworzące malutkie drony nie będzie się już pojawiać wprost przed graczem
-* usunięto bug wyświetlający dodatkowy pasek zdrowia bossa
-* usprawniony został system dystrybucji przeciwników na falę, silniejsze jednostki pojawiają się później, gra jest mniej chaotyczna, a gracz ma czas aby się dostosować
-* boss pojawia się na dziesiątej fali, a nie jak do tej pory na piętnastej
+First update on Android system
+* fixed bug with player ship making itself invisible 
+* ship is now moved by pressing and holding finger on the screen 
+* fixed bug : ship can not leave screen boundaries anymore 
+* ship will pop up from under the finger to increase visibility
 
-Pierwsza łatka na system Android
-* naprawa błędu, nasz statek kosmiczny już nie staje się niewidzialny
-* statek teraz przemieszczamy naciskając na niego i przeciągając palcem
-* naprawiony błąd: statek nie może opuścić granic ekranu
-* statek będzie wyskakiwał spod palca co ułatwi widoczność
